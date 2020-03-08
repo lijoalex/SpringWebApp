@@ -11,6 +11,6 @@ public class HomeController {
 //	@ResponseBody
 	public String home() {
 		System.out.println("web proj app");
-		return "home.jsp";
+		return "home";
 	}
 }
