@@ -7,6 +7,6 @@
 <title>WebProj</title>
 </head>
 <body>
-Got Name: ${name}
+Got ID: ${obj.aid}, Name: ${obj.aname}, Language: ${obj.lang}
 </body>
 </html>
