@@ -7,6 +7,6 @@
 <title>WebProj</title>
 </head>
 <body>
-Inside JSP
+Got Name: ${name}
 </body>
 </html>
